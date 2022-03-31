@@ -4,7 +4,7 @@
 title: Zhicong (Jasmine) Ma
 description: >- # this means to ignore newlines until "baseurl:"
   Zhicong's personal site.
-baseurl: "/jazzyjasmine.github.io" # the subpath of the site
+# baseurl: "/jazzyjasmine.github.io" # the subpath of the site
 url: "https://jazzyjasmine.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
