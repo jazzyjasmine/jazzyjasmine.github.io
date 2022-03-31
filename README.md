@@ -1,6 +1,8 @@
-# bay
+# Personal Website
 
-[![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
+This is my personal website using the Jekyll theme [Bay](https://github.com/eliottvincent/bay/).
+
+<!-- [![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 [![Downloads](https://img.shields.io/gem/dt/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 
 Bay is a simple theme for Jekyll. [[view live]](https://eliottvincent.github.io/bay)
@@ -144,4 +146,4 @@ gem build bay_jekyll_theme.gemspec
 
 ```sh
 gem push bay_jekyll_theme-1.x.x.gem
-```
+``` -->
