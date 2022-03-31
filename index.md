@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I'm a Master student in Computer Science at the <a href="https://masters.cs.uchicago.edu">University of Chicago</a>. Prior to that, I worked as a full-time Software Engineer at <a href="https://www.bytedance.com">ByteDance</a> after obtaining my Bachelor degree of Medicine from <a href="https://www.fudan.edu.cn/en/">Fudan University</a>.
 </p>
 
-<p>
+<!-- <p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+</p> -->
