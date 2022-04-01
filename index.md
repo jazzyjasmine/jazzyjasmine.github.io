@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  Here's my <a href="/resume.html">CV</a>.
+  Here's my <a href="/cv/cv.html">CV</a>.
 </p>
